@@ -1,24 +1,25 @@
-# Problem 1
-# Create a variable for your lucky number and print it.
+x = 12 # integer: whole numbers without a decimal
+print(y)
 
 
 
-# Problem 2
-# Create a variable for the number of hours you sleep and print it.
+z = 9 # integer: whole numbers without a decimal
+print(z)
 
 
 
-# Problem 3
-# Create a variable for your favorite fruit and print it in a full sentence.
+favorite_fruit = "strawberries" # string: text enclosed in quotes
+print(favorite_fruit)
 
 
 
 # Problem 4
-# Create two variables: one for your city and one for your country.
-# Print them on 2 separate lines.
-
+x = Seattle
+A = USA
+print(x)
+print(A)
 
 
 # Problem 5
-# Create 3 variables: your pet's name, its age, and its type.
-# Print them on the same line in a full sentence.
+y = "Anbelay, 4, German shepard", x = "Anbelay, 4, German shepard", z = "Anbelay, 4, German shepard)
+print(y, "Anbelay", 4, German shepard), print(x, "Anbely", 4), print(z, "Anbelay" 4, German shepard)
